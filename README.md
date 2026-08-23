@@ -52,6 +52,8 @@ The complete circuit was designed and tested using **Proteus Design Suite** befo
 
 The Proteus project files are included in this repository.
 
+<img width="1366" height="768" alt="Screenshot 2026-08-24 025330" src="https://github.com/user-attachments/assets/851b3457-ad85-4d2a-afcd-9a410157527f" />
+
 ## Practical Implementation
 
 After verifying the circuit in Proteus, the power supply was built and tested practically.
